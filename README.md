@@ -1,2 +1,2 @@
 # hello-world
-a bit about yourself
+El típico repositorio que hay que hacer. Estoy siendo guiado por el tutorial
